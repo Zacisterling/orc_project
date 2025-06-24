@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+
+# Character image dataset (auto-generated)
+character_images/
+
+# TensorFlow model checkpoints and logs
+*.h5
+*.pb
+*.ckpt
+*.tflite
+logs/
+__pycache__/
+
+# Mac system files
+.DS_Store
+
+# VS Code settings (optional to ignore)
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Results or predictions
+results/
+*.csv
+*.txt
+*.png
